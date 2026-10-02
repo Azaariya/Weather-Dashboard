@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ST Weather Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>🌤 ST Weather</h1>
+
+    <div class="search-box">
+      <input type="text" id="city-input" placeholder="Enter city">
+      <button id="search-btn">Search</button>
+    </div>
+
+    <div class="weather-card">
+      <h2 id="city-name">City</h2>
+      <img id="weather-icon" src="" alt="Weather Icon">
+      <h1 id="temperature">--°C</h1>
+      <h3 id="description">Weather</h3>
+
+      <div class="details">
+        <div class="detail">
+          <h4>Humidity</h4>
+          <p id="humidity">--</p>
+        </div>
+        <div class="detail">
+          <h4>Wind</h4>
+          <p id="wind">--</p>
+        </div>
+        <div class="detail">
+          <h4>Feels Like</h4>
+          <p id="feels-like">--</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
