@@ -26,11 +26,13 @@ A simple, interactive weather dashboard built with **HTML, CSS, and JavaScript**
 
 ## 📸 Screenshots
 
-Add screenshots of your actual Weather Dashboard here.
-
-<!-- Replace the filenames below with your uploaded screenshot filenames. -->
+### Weather Dashboard
 
 ![Weather Dashboard](weather-dashboard.png)
+
+### Weather Search Result
+
+![Weather Search Result](weather-result.png)
 
 ## 🚀 Getting Started
 
