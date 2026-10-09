@@ -22,7 +22,7 @@ A simple, interactive weather dashboard built with **HTML, CSS, and JavaScript**
 
 ## 🌐 Live Demo
 
-[**View Weather Dashboard**](YOUR_LIVE_DEMO_URL)
+[**View Weather Dashboard**](weather-dashboard-by-azariya.vercel.app)
 
 ## 📸 Screenshots
 
