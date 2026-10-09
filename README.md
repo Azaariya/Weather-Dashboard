@@ -22,7 +22,10 @@ A simple, interactive weather dashboard built with **HTML, CSS, and JavaScript**
 
 ## 🌐 Live Demo
 
-[**View Weather Dashboard**](weather-dashboard-by-azariya.vercel.app)
+[**View Weather Dashboard**](https://weather-dashboard-by-azariya.vercel.app/)
+
+Try searching for a city to see its current weather, temperature, humidity, wind speed, and feels-like temperature.
+
 
 ## 📸 Screenshots
 
